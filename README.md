@@ -32,5 +32,20 @@ IBM Cloud - Registry
 
 ![Screenshot](prtsc/ibm-cloud-kubernetes-04.png)
 
+9. $ kubectl apply
+
+
+10. $ kubectl get pods
+
+
+
+11. $ kubectl get all
+
+
+
+
+
+
+
 
 
