@@ -22,3 +22,8 @@ Previously created imagem docker
 7. $ ibmcloud cs workers cluster-jm
 
 
+8. $ ibmcloud cs cluster-config cluster-jm
+
+
+
+
