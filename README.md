@@ -51,12 +51,17 @@ IBM Cloud - Kubernetes Dashborad
 
 IBM Cloud - Kubernetes Clusters
 
+![Screenshot](prtsc/ibm-cloud-kubernetes-09.png)
+
 
 Postman - Create Customer
+
+![Screenshot](prtsc/postman-create-customer.png)
 
 
 Postman - Get Customer 
 
+![Screenshot](prtsc/postman-get-customer.png)
 
 
 
