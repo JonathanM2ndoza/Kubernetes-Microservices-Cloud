@@ -53,6 +53,8 @@ IBM Cloud - Kubernetes Clusters
 
 ![Screenshot](prtsc/ibm-cloud-kubernetes-09.png)
 
+![Screenshot](prtsc/ibm-cloud-kubernetes-10.png)
+
 
 Postman - Create Customer
 
