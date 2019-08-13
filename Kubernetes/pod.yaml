@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: api-customer-pod
+  labels:
+    app: api-customer
+spec:
+  containers:
+  - name: api-customer
+    image: us.icr.io/docker_lab1/springboot-microservice-cloud:1.0
+    ports:
+    - containerPort: 8071
