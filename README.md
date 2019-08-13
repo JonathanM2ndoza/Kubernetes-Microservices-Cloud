@@ -16,18 +16,21 @@ Previously created imagem docker
 
 ![Screenshot](prtsc/docker-push.png)
 
+IBM Cloud - Registry
+
+![Screenshot](prtsc/ibm-cloud-kubernetes-01.png)
 
 6. $ ibmcloud cs clusters
 
-![Screenshot](ibm-cloud-kubernetes-02.png)
+![Screenshot](prtsc/ibm-cloud-kubernetes-02.png)
 
 7. $ ibmcloud cs workers cluster-jm
 
-![Screenshot](ibm-cloud-kubernetes-03.png)
+![Screenshot](prtsc/ibm-cloud-kubernetes-03.png)
 
 8. $ ibmcloud cs cluster-config cluster-jm
 
-![Screenshot](ibm-cloud-kubernetes-04.png)
+![Screenshot](prtsc/ibm-cloud-kubernetes-04.png)
 
 
 
