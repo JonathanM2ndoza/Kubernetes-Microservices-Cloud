@@ -34,12 +34,19 @@ IBM Cloud - Registry
 
 9. $ kubectl apply
 
+![Screenshot](prtsc/ibm-cloud-kubernetes-05.png)
 
 10. $ kubectl get pods
 
-
+![Screenshot](prtsc/ibm-cloud-kubernetes-06.png)
 
 11. $ kubectl get all
+
+![Screenshot](prtsc/ibm-cloud-kubernetes-07.png)
+
+IBM Cloud - Kubernetes Dashborad
+
+![Screenshot](prtsc/ibm-cloud-kubernetes-08.png)
 
 
 
