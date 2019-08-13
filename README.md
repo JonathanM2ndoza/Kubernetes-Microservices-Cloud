@@ -19,4 +19,6 @@ Previously created imagem docker
 6. $ ibmcloud cs clusters
 
 
+7. $ ibmcloud cs workers cluster-jm
+
 
