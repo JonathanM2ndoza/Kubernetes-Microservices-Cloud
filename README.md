@@ -50,6 +50,8 @@ IBM Cloud - Kubernetes Dashborad
 
 ![Screenshot](prtsc/ibm-cloud-kubernetes-10.png)
 
+![Screenshot](prtsc/ibm-cloud-kubernetes-11.png)
+
 
 IBM Cloud - Kubernetes Clusters
 
