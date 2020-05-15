@@ -1,4 +1,4 @@
-# Example Kubernetes - Springboot Microservices Cloud
+#Kubernetes - Spring Boot Microservices - IBM Cloud
 
 IBM Cloud is used for this example
 
