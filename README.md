@@ -1,8 +1,37 @@
-# Kubernetes - Spring Boot Microservices - IBM Cloud
+# Microservices with Spring Boot and IBM Cloud Kubernetes Service
 
-IBM Cloud is used for this example
+Example of Microservices with Spring Boot and IBM Cloud Kubernetes Service.
 
-# IBM Cloud CLI command
+## The twelve factors
+To effectively design and build apps for the cloud, you should understand the twelve factors:
+
+I. Codebase: One codebase tracked in revision control, many deployments
+
+II. Dependencies: Explicitly declare and isolate dependencies
+
+III. Config: Store configuration in the environment
+
+IV. Backing services: Treat backing services as attached resources
+
+V. Build, release, run: Strictly separate build and run stages
+
+VI. Processes: Execute the app as one or more stateless processes
+
+VII. Port binding: Export services via port binding
+
+VIII. Concurrency: Scale out via the process model
+
+IX. Disposability: Maximize robustness with fast startup and graceful shutdown
+
+X. Dev/prod parity: Keep development, staging, and production as similar as possible
+
+XI. Logs: Treat logs as event streams
+
+XII. Admin processes: Run admin/management tasks as one-off processes
+
+
+
+### IBM Cloud CLI command
 
 Previously created imagem docker
 ![Screenshot](prtsc/docker-images.png)
@@ -16,7 +45,7 @@ Previously created imagem docker
 
 ![Screenshot](prtsc/docker-push.png)
 
-IBM Cloud - Registry
+### IBM Cloud - Registry
 
 ![Screenshot](prtsc/ibm-cloud-kubernetes-01.png)
 
@@ -44,7 +73,7 @@ IBM Cloud - Registry
 
 ![Screenshot](prtsc/ibm-cloud-kubernetes-07.png)
 
-IBM Cloud - Kubernetes Dashborad
+### IBM Cloud - Kubernetes Dashborad
 
 ![Screenshot](prtsc/ibm-cloud-kubernetes-08.png)
 
@@ -55,17 +84,17 @@ IBM Cloud - Kubernetes Dashborad
 ![Screenshot](prtsc/ibm-cloud-kubernetes-11.png)
 
 
-IBM Cloud - Kubernetes Clusters
+### IBM Cloud - Kubernetes Clusters
 
 ![Screenshot](prtsc/ibm-cloud-kubernetes-09.png)
 
 
-Postman - Create Customer
+### Postman - Create Customer
 
 ![Screenshot](prtsc/postman-create-customer.png)
 
 
-Postman - Get Customer 
+### Postman - Get Customer 
 
 ![Screenshot](prtsc/postman-get-customer.png)
 
