@@ -29,9 +29,10 @@ XI. Logs: Treat logs as event streams
 
 XII. Admin processes: Run admin/management tasks as one-off processes
 
+For more information please visit: https://www.12factor.net/
 
 
-### IBM Cloud CLI command
+## IBM Cloud CLI command
 
 Previously created imagem docker
 ![Screenshot](prtsc/docker-images.png)
